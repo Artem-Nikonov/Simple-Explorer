@@ -1,0 +1,81 @@
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\bin\Debug\net7.0-windows\Проводник.exe
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\bin\Debug\net7.0-windows\Проводник.deps.json
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\bin\Debug\net7.0-windows\Проводник.runtimeconfig.json
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\bin\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\bin\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.AssemblyInfo.cs
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\refint\Проводник.dll
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\Проводник.genruntimeconfig.cache
+C:\Users\HP\Desktop\программы c#\WinFormsApp1\obj\Debug\net7.0-windows\ref\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.AssemblyInfo.cs
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\refint\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\программы c#\проводник\bin\Debug\net7.0-windows\Проводник.exe
+C:\Users\HP\Desktop\программы c#\проводник\bin\Debug\net7.0-windows\Проводник.deps.json
+C:\Users\HP\Desktop\программы c#\проводник\bin\Debug\net7.0-windows\Проводник.runtimeconfig.json
+C:\Users\HP\Desktop\программы c#\проводник\bin\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\bin\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.genruntimeconfig.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\ref\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.ConfirmForm.resources
+C:\Users\HP\Desktop\проводник\bin\Debug\net7.0-windows\Проводник.exe
+C:\Users\HP\Desktop\проводник\bin\Debug\net7.0-windows\Проводник.deps.json
+C:\Users\HP\Desktop\проводник\bin\Debug\net7.0-windows\Проводник.runtimeconfig.json
+C:\Users\HP\Desktop\проводник\bin\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\проводник\bin\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.ConfirmForm.resources
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.AssemblyInfo.cs
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.dll
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\refint\Проводник.dll
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.pdb
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\Проводник.genruntimeconfig.cache
+C:\Users\HP\Desktop\проводник\obj\Debug\net7.0-windows\ref\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.Properties.Resources.resources
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.TxtRedactor.resources
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Interop.WMPLib.dll
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\Проводник.Mp3Redactor.resources
+C:\Users\HP\Desktop\программы c#\проводник\obj\Debug\net7.0-windows\WinFormsApp1.Functions.resources
+D:\репозитории\Explorer\Explorer\bin\Debug\net7.0-windows\Проводник.exe
+D:\репозитории\Explorer\Explorer\bin\Debug\net7.0-windows\Проводник.deps.json
+D:\репозитории\Explorer\Explorer\bin\Debug\net7.0-windows\Проводник.runtimeconfig.json
+D:\репозитории\Explorer\Explorer\bin\Debug\net7.0-windows\Проводник.dll
+D:\репозитории\Explorer\Explorer\bin\Debug\net7.0-windows\Проводник.pdb
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.csproj.AssemblyReference.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Interop.WMPLib.dll
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.csproj.ResolveComReference.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.ConfirmForm.resources
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\WinFormsApp1.Functions.resources
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.Mp3Redactor.resources
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.Properties.Resources.resources
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.TxtRedactor.resources
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.csproj.GenerateResource.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.AssemblyInfoInputs.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.AssemblyInfo.cs
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.csproj.CoreCompileInputs.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.dll
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\refint\Проводник.dll
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.pdb
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\Проводник.genruntimeconfig.cache
+D:\репозитории\Explorer\Explorer\obj\Debug\net7.0-windows\ref\Проводник.dll

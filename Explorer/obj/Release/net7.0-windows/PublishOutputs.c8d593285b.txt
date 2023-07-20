@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\программы c#\проводник\bin\Release\net7.0-windows\publish\Проводник.exe
+C:\Users\HP\Desktop\программы c#\проводник\bin\Release\net7.0-windows\publish\Проводник.dll
+C:\Users\HP\Desktop\программы c#\проводник\bin\Release\net7.0-windows\publish\Проводник.deps.json
+C:\Users\HP\Desktop\программы c#\проводник\bin\Release\net7.0-windows\publish\Проводник.runtimeconfig.json
+C:\Users\HP\Desktop\программы c#\проводник\bin\Release\net7.0-windows\publish\Проводник.pdb
