@@ -1,1 +1,1 @@
-"# Simple-Explorer" 
+Тренировочный мини-проект "Simple-Explorer"
